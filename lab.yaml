@@ -1,0 +1,9 @@
+site_name: My AI Labs
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Labs:
+      - Lab 1: labs/lab1.md
+      - Lab 2: labs/lab2.md
